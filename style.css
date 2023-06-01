@@ -1,0 +1,19 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 5px solid rebeccapurple;
+}
