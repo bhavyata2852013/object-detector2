@@ -1,19 +1,23 @@
-
-.heading
-{
-font-size: 23px;
-width: 100%;
-}
-
-#status
-{
-font-size: 18px;
-}
-
 body{
     background-size: cover;
 }
 
+.heading{
+    line-height: 2;
+    width: 100%;
+    font-size: 25px;
+    color:#003300;
+}
+
+.info{
+    font-size: 17px;
+    color: #00004d;
+}
+
+#song{
+    width: 20%;
+}
+
 canvas{
-    border: 5px solid rebeccapurple;
+    border: 10px ridge blue;
 }
